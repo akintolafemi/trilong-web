@@ -1,4 +1,47 @@
-.container {
+.header {
+  background-image: url( '../public/images/header_bg.jpg' )
+}
+
+.lsvr_slide_list__item_bg {
+  background-image: url( '../public/images/slide_01.jpg' );
+}
+
+.lsvr_slide_list__item_bg_2 {
+  background-image: url( '../public/images/slide_02.jpg' );
+}
+
+.lsvr_slide_list__item_bg_3 {
+  background-image: url( '../public/images/slide_03.jpg' );
+}
+
+.lsvr_slide_list__item_bg_4 {
+  background-image: url( '../public/images/service_01.jpg' );
+}
+
+.lsvr_slide_list__item_bg_5 {
+  background-image: url( '../public/images/service_02.jpg' );
+}
+
+.lsvr_slide_list__item_bg_6 {
+  background-image: url( '../public/images/service_03.jpg' );
+}
+
+.lsvr_slide_list__item_bg_7 {
+  background-image: url( '../public/images/service_04.jpg' );
+}
+
+.lsvr_slide_list__item_bg_8 {
+  background-image: url( '../public/images/service_05.jpg' );
+}
+
+.lsvr_slide_list__item_bg_9 {
+  background-image: url( '../public/images/service_06.jpg' );
+}
+
+.footer_widgets {
+  background-image: url( '../public/images/footer_bg.jpg' );
+}
+/* .container {
   min-height: 100vh;
   padding: 0 0.5rem;
   display: flex;
@@ -118,4 +161,4 @@
     width: 100%;
     flex-direction: column;
   }
-}
+} */
